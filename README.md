@@ -1,20 +1,20 @@
-# 🍽️ VishuRestaurant
+# 🩺 Doctor Profile
 
-A responsive and modern restaurant website built using HTML, CSS, and JavaScript. This website showcases the restaurant’s menu, story, and contact information in a user-friendly and visually appealing way.
+A responsive and modern Doctor Profile website built using HTML, CSS, and JavaScript. This website showcases the doctor’s credentials, services, specialties, and contact information in a user-friendly way.
 
 # 🚀 Features
 
-🌍 Responsive design: Works perfectly on desktop, tablet, and mobile devices
+🌍 Responsive Design: Works smoothly on desktop, tablet, and mobile devices
 
-🍔 Menu showcase: Display popular dishes with descriptions and prices
+👨‍⚕️ Doctor Profile: Highlights education, experience, and certifications
 
-🏠 Home & About sections: Highlight the restaurant’s story and specialties
+🏥 Services Offered: Lists medical services or specialties
 
-✉️ Contact form: Easy way for users to reach out
+✉️ Contact Form: Enables patients to send inquiries directly
 
-🎨 Modern UI: Smooth scrolling, interactive navigation, and clean design
+🎨 Modern UI: Clean design with smooth scrolling and interactive navigation
 
-🔄 Error handling: For form submissions and interactions
+🔄 Error Handling: For contact form submissions
 
 # 🛠️ Tech Stack
 
@@ -24,7 +24,8 @@ Hosting: GitHub Pages
 
 # 🌐 Live Demo
 
-Check out the live website: VishuRestaurant
+https://vishu0911.github.io/Dr.Profile/
 
 # 📸 Screenshots
+
 
