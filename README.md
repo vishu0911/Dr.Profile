@@ -28,4 +28,7 @@ https://vishu0911.github.io/Dr.Profile/
 
 # 📸 Screenshots
 
+![60A8CEB9-377B-43D6-9808-472685669187_1_201_a](https://github.com/user-attachments/assets/6a7ee0d5-bf7f-42e2-bbfb-ec0172a25543)
+
+
 
